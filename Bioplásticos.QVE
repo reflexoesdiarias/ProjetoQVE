@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bioplásticos e o Meio Ambiente</title>
+              <link rel="stylesheet" href="style.css">
+</head>  
+
+
+<body>
+    <header>
+        <h1>Bioplásticos e o Futuro Sustentável</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre os Bioplásticos</a></li>
+                <li><a href="#vantagens">Vantagens</a></li>
+                <li><a href="#impacto">Impacto Ambiental</a></li>
+                <li><a href="#galeria">Galeria</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#anotacões">Anotacões</a></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="sobre">
+        <h2>O que são Bioplásticos?</h2>
+        <p>Bioplásticos são polímeros biodegradáveis ou de origem renovável que reduzem o impacto ambiental causado pelos plásticos convencionais.</p>
+    </section>
+
+    <section id="vantagens">
+        <h2>Vantagens dos Bioplásticos</h2>
+        <ul>
+            <li>Menor tempo de decomposição</li>
+            <li>Redução do uso de petróleo</li>
+            <li>Menos impacto ambiental</li>
+        </ul>
+    </section>
+
+    <section id="impacto">
+        <h2>Impacto Ambiental</h2>
+        <p>Os bioplásticos ajudam a reduzir a poluição plástica e contribuem para um futuro mais sustentável.</p>
+    </section>
+
+    <section id="galeria">
+        <h2>Galeria</h2>
+        <p>Imagens ilustrativas sobre bioplásticos e seus benefícios.</p>
+        
+    </section>
+
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>Quer saber mais? Envie uma mensagem!</p>
+        <form action="https://formspree.io/f/xpwpljbo" 
+            method="POST">
+    <input type="text" name="nome" placeholder="Seu Nome" required>
+    <input type="email" name="email" placeholder="Seu E-mail" required>
+    <textarea name="mensagem" placeholder="Sua Mensagem"></textarea>
+    <button type="submit">Enviar</button>
+</form>
+    </section>
+ <section id="anotacões">
+        <h2>Anotacões sobre o tema</h2>
+        <p>24/03/2025</p>
+     <p>  <text-color>Pesquisa</text-color>   sobre uma das forma de degradar polietileno(tipo de plástico).Que consiste em utilizar bactérias chamadas pseudomonas no material destinado a degradar-se. </p>
+        
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Bioplásticos Sustentáveis. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
